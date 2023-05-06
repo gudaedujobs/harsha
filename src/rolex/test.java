@@ -6,7 +6,7 @@ public class test {
 	{
 	    public static void main(String []args)
 	    {
-	        System.out.println("My First cloning from github.");
+	        System.out.println("My First cloning from githubs.");
 	    }
 	}
 
